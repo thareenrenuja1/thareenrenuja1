@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analytics Intern at UNDP
 -----------------------------
 
-🔭 Data Analytics Intern at UNDP Sri Lanka 🎓 Pursuing BSc (Hons) in AI & Data Science at Robert Gordon University | IIT
+🔭 Data Analytics Intern at UNDP Sri Lanka 🎓 Pursuing BSc (Hons) in AI & Data Science  
+IIT
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLo4DJsNk0Kkis8iT_I5ZhEp_kMXJpArVeuw&usqp=CAU">
 
 * 🌍  I'm based in Colombo, Sri Lanka
