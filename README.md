@@ -11,7 +11,7 @@ Data Analytics Intern at UNDP
 * ✉️  You can contact me at [withanagethareen@gmail.com](mailto:withanagethareen@gmail.com)
 * 🚀  I'm currently working on [UNDP Sri Lanka](http://www.undp.org/srilanka)
 * 🧠  I'm learning Machine Learning, Data Engineering, & AI.
-* 🤝  Open to collaborating on Data Science, Data Visualization, MySQL, & Microsoft Power BI.
+* 🤝  Collaborating on Data Science, Data Visualization, MySQL, & Microsoft Power BI.
 * ⚡  Chess | SLASSCOM | AIESEC
 
 ### Skills
