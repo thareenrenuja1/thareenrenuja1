@@ -5,7 +5,7 @@ Data Analytics Intern at UNDP
 -----------------------------
 
 🔭 Data Analytics Intern at UNDP Sri Lanka 
-🎓 Pursuing BSc (Hons) in AI & Data Science  
+🎓 BSc (Hons) in AI & Data Science  
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLo4DJsNk0Kkis8iT_I5ZhEp_kMXJpArVeuw&usqp=CAU">
 
